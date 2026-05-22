@@ -132,6 +132,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: evolo
       objectReference: {fileID: 0}
+    - target: {fileID: 3717963005661051901, guid: 9bdc1d495a4826a008b8bd941c031fdf,
+        type: 3}
+      propertyPath: frequency
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717963005661051901, guid: 9bdc1d495a4826a008b8bd941c031fdf,
+        type: 3}
+      propertyPath: textureWidth
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717963005661051901, guid: 9bdc1d495a4826a008b8bd941c031fdf,
+        type: 3}
+      propertyPath: textureHeight
+      value: 540
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657707014119621834, guid: 9bdc1d495a4826a008b8bd941c031fdf,
+        type: 3}
+      propertyPath: frequency
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7666915359876497695, guid: 9bdc1d495a4826a008b8bd941c031fdf,
         type: 3}
       propertyPath: m_LocalPosition.x
